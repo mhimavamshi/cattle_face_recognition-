@@ -62,7 +62,6 @@ The Receiver Operating Characteristic (ROC) curve plots the true positive rate a
 The model was trained for 15 epochs with a batch size of 64. Adjustments to hyperparameters such as epochs and batch size can impact the model's performance and training time.
 
 
-=======
 # Cow Identification and Registration Web Application
 
 ## Overview
